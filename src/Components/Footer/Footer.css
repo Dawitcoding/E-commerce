@@ -12,6 +12,10 @@
   gap: 20px;
 }
 
+.footer-logo img {
+  height: 75px;
+  border-radius: 50%;
+}
 .footer-logo p {
   color: #383838;
   font-size: 40px;
